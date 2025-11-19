@@ -6,7 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Working/2025_Unreal_FinalProject/FinalProject/Content/Variant_Combat/Input/IMC_Combat.uasset",
-				"C:/Working/2025_Unreal_FinalProject/FinalProject/Content/Variant_Combat/Blueprints/BP_CombatCharacter.uasset"
+				"C:/Working/2025_Unreal_FinalProject/FinalProject/Content/Variant_Combat/Blueprints/BP_CombatCharacter.uasset",
+				"C:/Working/2025_Unreal_FinalProject/FinalProject/Content/Variant_Combat/Lvl_Combat.umap",
+				"C:/Working/2025_Unreal_FinalProject/FinalProject/Content/Variant_Combat/Anims/AM_ComboAttack.uasset",
+				"C:/Working/2025_Unreal_FinalProject/FinalProject/Content/Variant_Combat/Blueprints/AI/ST_CombatEnemy.uasset"
 			]
 		}
 	]
