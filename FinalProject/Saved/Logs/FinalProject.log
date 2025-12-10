@@ -1851,3 +1851,29 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.10-08.48.43:201][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.12.10-08.48.43:204][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
 [2025.12.10-08.48.43:251][957]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.12.10-08.51.17:513][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.12.10-08.51.17:660][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/New/Level1" FILE="../../../../UEworking/2025_Unreal_FinalProject/FinalProject/Saved/Autosaves/Game/New/Level1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.12.10-08.51.18:022][381]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/New/Level1_Auto2
+[2025.12.10-08.51.18:022][381]LogSavePackage: Moving '../../../../UEworking/2025_Unreal_FinalProject/FinalProject/Saved/Level1_Auto2E75617E84EA51E2F62A8C38991FF45F0.tmp' to '../../../../UEworking/2025_Unreal_FinalProject/FinalProject/Saved/Autosaves/Game/New/Level1_Auto2.umap'
+[2025.12.10-08.51.18:064][381]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/New/Level1' took 1.075
+[2025.12.10-08.51.18:064][381]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.075
+[2025.12.10-08.51.18:064][381]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/New/gamemode] ([2] browsable assets)...
+[2025.12.10-08.51.18:064][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/New/gamemode]
+[2025.12.10-08.51.18:064][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/New/gamemode" FILE="../../../../UEworking/2025_Unreal_FinalProject/FinalProject/Saved/Autosaves/Game/New/gamemode_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.12.10-08.51.18:089][381]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/New/gamemode_Auto2
+[2025.12.10-08.51.18:089][381]LogSavePackage: Moving '../../../../UEworking/2025_Unreal_FinalProject/FinalProject/Saved/gamemode_Auto2A4761DC4459617F9B99E2FA725CD4B47.tmp' to '../../../../UEworking/2025_Unreal_FinalProject/FinalProject/Saved/Autosaves/Game/New/gamemode_Auto2.uasset'
+[2025.12.10-08.51.18:090][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/New/BP_CombatCharacterV2] ([2] browsable assets)...
+[2025.12.10-08.51.18:455][381]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/New/BP_CombatCharacterV2.BP_CombatCharacterV2]
+[2025.12.10-08.51.18:455][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/New/BP_CombatCharacterV2]
+[2025.12.10-08.51.18:533][381]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/New/BP_CombatCharacterV2_Auto2
+[2025.12.10-08.51.18:533][381]LogSavePackage: Moving '../../../../UEworking/2025_Unreal_FinalProject/FinalProject/Saved/BP_CombatCharacterV2_Auto2BE0075744FC071632539B5AFF125B7A8.tmp' to '../../../../UEworking/2025_Unreal_FinalProject/FinalProject/Saved/Autosaves/Game/New/BP_CombatCharacterV2_Auto2.uasset'
+[2025.12.10-08.51.18:534][381]LogFileHelpers: Auto-saving content packages took 0.470
+[2025.12.10-08.52.09:897][536]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1741.056641
+[2025.12.10-08.52.10:896][539]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-08.52.10:896][539]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1741.723755, Update Interval: 330.647308
+[2025.12.10-08.58.32:614][684]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2123.775146
+[2025.12.10-08.58.33:614][687]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-08.58.33:614][687]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2124.441162, Update Interval: 332.729279
+[2025.12.10-09.05.05:804][ 13]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2516.962646
+[2025.12.10-09.05.06:804][ 16]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-09.05.06:804][ 16]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2517.629639, Update Interval: 334.747162
