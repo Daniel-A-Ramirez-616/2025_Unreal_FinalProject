@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FPCPP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPCPP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FPCPPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FPCPP">
+      <UniqueIdentifier>{557911BB-71BE-3548-BA0B-3BFC4315AC57}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPCPP\FPCPP.Build.cs">
+      <Filter>Source\FPCPP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FPCPP\FPCPP.cpp">
+      <Filter>Source\FPCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\FPCPP.h">
+      <Filter>Source\FPCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPCPP\FPCPPCameraManager.cpp">
+      <Filter>Source\FPCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\FPCPPCameraManager.h">
+      <Filter>Source\FPCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPCPP\FPCPPCharacter.cpp">
+      <Filter>Source\FPCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\FPCPPCharacter.h">
+      <Filter>Source\FPCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPCPP\FPCPPGameMode.cpp">
+      <Filter>Source\FPCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\FPCPPGameMode.h">
+      <Filter>Source\FPCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPCPP\FPCPPPlayerController.cpp">
+      <Filter>Source\FPCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\FPCPPPlayerController.h">
+      <Filter>Source\FPCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPCPP\OutputDemo.cpp">
+      <Filter>Source\FPCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\OutputDemo.h">
+      <Filter>Source\FPCPP</Filter>
+    </ClInclude>
+    <Filter Include="Source\FPCPP\Variant_Horror">
+      <UniqueIdentifier>{D6EEA85B-3B5F-346C-99FE-ED1B35D56773}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FPCPP\Variant_Horror\HorrorCharacter.cpp">
+      <Filter>Source\FPCPP\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\Variant_Horror\HorrorCharacter.h">
+      <Filter>Source\FPCPP\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPCPP\Variant_Horror\HorrorGameMode.cpp">
+      <Filter>Source\FPCPP\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\Variant_Horror\HorrorGameMode.h">
+      <Filter>Source\FPCPP\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPCPP\Variant_Horror\HorrorPlayerController.cpp">
+      <Filter>Source\FPCPP\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\Variant_Horror\HorrorPlayerController.h">
+      <Filter>Source\FPCPP\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPCPP\Variant_Horror\HorrorUI.cpp">
+      <Filter>Source\FPCPP\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\Variant_Horror\HorrorUI.h">
+      <Filter>Source\FPCPP\Variant_Horror</Filter>
+    </ClInclude>
+    <Filter Include="Source\FPCPP\Variant_Shooter">
+      <UniqueIdentifier>{10CEFBCA-D41D-3BB5-818E-EC38768D485A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FPCPP\Variant_Shooter\ShooterBulletCounterUI.cpp">
+      <Filter>Source\FPCPP\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\Variant_Shooter\ShooterBulletCounterUI.h">
+      <Filter>Source\FPCPP\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPCPP\Variant_Shooter\ShooterCharacter.cpp">
+      <Filter>Source\FPCPP\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\Variant_Shooter\ShooterCharacter.h">
+      <Filter>Source\FPCPP\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPCPP\Variant_Shooter\ShooterGameMode.cpp">
+      <Filter>Source\FPCPP\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\Variant_Shooter\ShooterGameMode.h">
+      <Filter>Source\FPCPP\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPCPP\Variant_Shooter\ShooterPickup.cpp">
+      <Filter>Source\FPCPP\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\Variant_Shooter\ShooterPickup.h">
+      <Filter>Source\FPCPP\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPCPP\Variant_Shooter\ShooterPlayerController.cpp">
+      <Filter>Source\FPCPP\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\Variant_Shooter\ShooterPlayerController.h">
+      <Filter>Source\FPCPP\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPCPP\Variant_Shooter\ShooterProjectile.cpp">
+      <Filter>Source\FPCPP\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\Variant_Shooter\ShooterProjectile.h">
+      <Filter>Source\FPCPP\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPCPP\Variant_Shooter\ShooterUI.cpp">
+      <Filter>Source\FPCPP\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\Variant_Shooter\ShooterUI.h">
+      <Filter>Source\FPCPP\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPCPP\Variant_Shooter\ShooterWeapon.cpp">
+      <Filter>Source\FPCPP\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\Variant_Shooter\ShooterWeapon.h">
+      <Filter>Source\FPCPP\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPCPP\Variant_Shooter\ShooterWeaponHolder.cpp">
+      <Filter>Source\FPCPP\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\Variant_Shooter\ShooterWeaponHolder.h">
+      <Filter>Source\FPCPP\Variant_Shooter</Filter>
+    </ClInclude>
+    <Filter Include="Source\FPCPP\Variant_Shooter\AI">
+      <UniqueIdentifier>{6A6E3B74-0E15-3DFE-A059-118A585515A1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FPCPP\Variant_Shooter\AI\EnvQueryContext_Target.cpp">
+      <Filter>Source\FPCPP\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\Variant_Shooter\AI\EnvQueryContext_Target.h">
+      <Filter>Source\FPCPP\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPCPP\Variant_Shooter\AI\ShooterAIController.cpp">
+      <Filter>Source\FPCPP\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\Variant_Shooter\AI\ShooterAIController.h">
+      <Filter>Source\FPCPP\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPCPP\Variant_Shooter\AI\ShooterNPC.cpp">
+      <Filter>Source\FPCPP\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\Variant_Shooter\AI\ShooterNPC.h">
+      <Filter>Source\FPCPP\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPCPP\Variant_Shooter\AI\ShooterStateTreeUtility.cpp">
+      <Filter>Source\FPCPP\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPCPP\Variant_Shooter\AI\ShooterStateTreeUtility.h">
+      <Filter>Source\FPCPP\Variant_Shooter\AI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

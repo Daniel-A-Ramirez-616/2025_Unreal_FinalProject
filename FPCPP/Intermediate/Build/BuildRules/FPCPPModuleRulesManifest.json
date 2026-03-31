@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Working\\2025_Unreal_FinalProject\\FPCPP\\Source\\FPCPP\\FPCPP.Build.cs",
+		"C:\\Working\\2025_Unreal_FinalProject\\FPCPP\\Source\\FPCPP.Target.cs",
+		"C:\\Working\\2025_Unreal_FinalProject\\FPCPP\\Source\\FPCPPEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.0"
+}

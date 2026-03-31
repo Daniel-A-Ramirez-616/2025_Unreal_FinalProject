@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CPPLab.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CPPLab.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CPPLabEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CPPLab">
+      <UniqueIdentifier>{F1C98B39-B9EA-3784-A976-F4BBBB382A47}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CPPLab\CPPLab.Build.cs">
+      <Filter>Source\CPPLab</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CPPLab\CPPLab.cpp">
+      <Filter>Source\CPPLab</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\CPPLab.h">
+      <Filter>Source\CPPLab</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\CPPLabCharacter.cpp">
+      <Filter>Source\CPPLab</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\CPPLabCharacter.h">
+      <Filter>Source\CPPLab</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\CPPLabGameMode.cpp">
+      <Filter>Source\CPPLab</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\CPPLabGameMode.h">
+      <Filter>Source\CPPLab</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\CPPLabPlayerController.cpp">
+      <Filter>Source\CPPLab</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\CPPLabPlayerController.h">
+      <Filter>Source\CPPLab</Filter>
+    </ClInclude>
+    <Filter Include="Source\CPPLab\Variant_Combat">
+      <UniqueIdentifier>{BC1553DF-0669-3014-856C-F38466F00CA6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Combat\AnimNotify_CheckChargedAttack.cpp">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Combat\AnimNotify_CheckChargedAttack.h">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Combat\AnimNotify_CheckCombo.cpp">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Combat\AnimNotify_CheckCombo.h">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Combat\AnimNotify_DoAttackTrace.cpp">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Combat\AnimNotify_DoAttackTrace.h">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Combat\CombatActivatable.cpp">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Combat\CombatActivatable.h">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Combat\CombatActivationVolume.cpp">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Combat\CombatActivationVolume.h">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Combat\CombatAttacker.cpp">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Combat\CombatAttacker.h">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Combat\CombatCharacter.cpp">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Combat\CombatCharacter.h">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Combat\CombatCheckpointVolume.cpp">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Combat\CombatCheckpointVolume.h">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Combat\CombatDamageable.cpp">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Combat\CombatDamageable.h">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Combat\CombatDamageableBox.cpp">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Combat\CombatDamageableBox.h">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Combat\CombatDummy.cpp">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Combat\CombatDummy.h">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Combat\CombatGameMode.cpp">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Combat\CombatGameMode.h">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Combat\CombatLavaFloor.cpp">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Combat\CombatLavaFloor.h">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Combat\CombatLifeBar.cpp">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Combat\CombatLifeBar.h">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Combat\CombatPlayerController.cpp">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Combat\CombatPlayerController.h">
+      <Filter>Source\CPPLab\Variant_Combat</Filter>
+    </ClInclude>
+    <Filter Include="Source\CPPLab\Variant_Combat\AI">
+      <UniqueIdentifier>{D11E7BAD-D6A9-3F8B-A8AB-855541857601}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Combat\AI\CombatAIController.cpp">
+      <Filter>Source\CPPLab\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Combat\AI\CombatAIController.h">
+      <Filter>Source\CPPLab\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Combat\AI\CombatEnemy.cpp">
+      <Filter>Source\CPPLab\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Combat\AI\CombatEnemy.h">
+      <Filter>Source\CPPLab\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Combat\AI\CombatEnemySpawner.cpp">
+      <Filter>Source\CPPLab\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Combat\AI\CombatEnemySpawner.h">
+      <Filter>Source\CPPLab\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Combat\AI\CombatStateTreeUtility.cpp">
+      <Filter>Source\CPPLab\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Combat\AI\CombatStateTreeUtility.h">
+      <Filter>Source\CPPLab\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Combat\AI\EnvQueryContext_Player.cpp">
+      <Filter>Source\CPPLab\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Combat\AI\EnvQueryContext_Player.h">
+      <Filter>Source\CPPLab\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\CPPLab\Variant_Platforming">
+      <UniqueIdentifier>{51A8AE0F-FB0B-39E6-B57C-9CB079C50BBD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Platforming\AnimNotify_EndDash.cpp">
+      <Filter>Source\CPPLab\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Platforming\AnimNotify_EndDash.h">
+      <Filter>Source\CPPLab\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Platforming\PlatformingCharacter.cpp">
+      <Filter>Source\CPPLab\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Platforming\PlatformingCharacter.h">
+      <Filter>Source\CPPLab\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Platforming\PlatformingGameMode.cpp">
+      <Filter>Source\CPPLab\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Platforming\PlatformingGameMode.h">
+      <Filter>Source\CPPLab\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_Platforming\PlatformingPlayerController.cpp">
+      <Filter>Source\CPPLab\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_Platforming\PlatformingPlayerController.h">
+      <Filter>Source\CPPLab\Variant_Platforming</Filter>
+    </ClInclude>
+    <Filter Include="Source\CPPLab\Variant_SideScrolling">
+      <UniqueIdentifier>{E818EA85-2E10-36E5-A916-18BCA59B2E0F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_SideScrolling\SideScrollingCameraManager.cpp">
+      <Filter>Source\CPPLab\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_SideScrolling\SideScrollingCameraManager.h">
+      <Filter>Source\CPPLab\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_SideScrolling\SideScrollingCharacter.cpp">
+      <Filter>Source\CPPLab\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_SideScrolling\SideScrollingCharacter.h">
+      <Filter>Source\CPPLab\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\CPPLab\Variant_SideScrolling\SideScrollingCPP.Build.cs">
+      <Filter>Source\CPPLab\Variant_SideScrolling</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_SideScrolling\SideScrollingGameMode.cpp">
+      <Filter>Source\CPPLab\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_SideScrolling\SideScrollingGameMode.h">
+      <Filter>Source\CPPLab\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_SideScrolling\SideScrollingInteractable.cpp">
+      <Filter>Source\CPPLab\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_SideScrolling\SideScrollingInteractable.h">
+      <Filter>Source\CPPLab\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_SideScrolling\SideScrollingPlayerController.cpp">
+      <Filter>Source\CPPLab\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_SideScrolling\SideScrollingPlayerController.h">
+      <Filter>Source\CPPLab\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_SideScrolling\SideScrollingUI.cpp">
+      <Filter>Source\CPPLab\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_SideScrolling\SideScrollingUI.h">
+      <Filter>Source\CPPLab\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <Filter Include="Source\CPPLab\Variant_SideScrolling\AI">
+      <UniqueIdentifier>{1E09731A-70C7-3A69-81B7-C80E50EF5547}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_SideScrolling\AI\SideScrollingAIController.cpp">
+      <Filter>Source\CPPLab\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_SideScrolling\AI\SideScrollingAIController.h">
+      <Filter>Source\CPPLab\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_SideScrolling\AI\SideScrollingNPC.cpp">
+      <Filter>Source\CPPLab\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_SideScrolling\AI\SideScrollingNPC.h">
+      <Filter>Source\CPPLab\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.cpp">
+      <Filter>Source\CPPLab\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.h">
+      <Filter>Source\CPPLab\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\CPPLab\Variant_SideScrolling\Gameplay">
+      <UniqueIdentifier>{9EC7EACB-9873-33AA-856D-986A994E4F2A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.cpp">
+      <Filter>Source\CPPLab\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.h">
+      <Filter>Source\CPPLab\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.cpp">
+      <Filter>Source\CPPLab\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.h">
+      <Filter>Source\CPPLab\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_SideScrolling\Gameplay\SideScrollingPickup.cpp">
+      <Filter>Source\CPPLab\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_SideScrolling\Gameplay\SideScrollingPickup.h">
+      <Filter>Source\CPPLab\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPLab\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.cpp">
+      <Filter>Source\CPPLab\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPLab\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.h">
+      <Filter>Source\CPPLab\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

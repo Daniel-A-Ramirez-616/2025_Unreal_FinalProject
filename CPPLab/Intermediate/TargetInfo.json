@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CPPLab",
+			"Path": "..\\Source\\CPPLab.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CPPLabEditor",
+			"Path": "..\\Source\\CPPLabEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

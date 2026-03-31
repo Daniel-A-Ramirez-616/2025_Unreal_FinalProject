@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FPCPP-4966.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Working/2025_Unreal_FinalProject/FPCPP/Intermediate/Build/Win64/x64/FPCPPEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Working/2025_Unreal_FinalProject/FPCPP/Intermediate/Build/Win64/x64/UnrealEditor/Development/FPCPP/Module.FPCPP.cpp.obj"
+"C:/Working/2025_Unreal_FinalProject/FPCPP/Intermediate/Build/Win64/x64/UnrealEditor/Development/FPCPP/Default.rc2.res"
+/OUT:"C:/Working/2025_Unreal_FinalProject/FPCPP/Intermediate/Build/Win64/x64/UnrealEditor/Development/FPCPP/UnrealEditor-FPCPP-4966.lib"

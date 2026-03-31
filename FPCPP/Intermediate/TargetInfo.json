@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FPCPP",
+			"Path": "..\\Source\\FPCPP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FPCPPEditor",
+			"Path": "..\\Source\\FPCPPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
